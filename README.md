@@ -10,6 +10,6 @@ login /admin
 | ------ | ------ |
 | andyptra | andy12345 |
 
-#### Sastrawi
+#### Plugin
 
-See [sastrawi](https://github.com/sastrawi/sastrawi)
+Link [sastrawi](https://github.com/sastrawi/sastrawi)
