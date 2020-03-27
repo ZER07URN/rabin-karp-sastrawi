@@ -1,7 +1,9 @@
 # rabin-karp-sastrawi
-implementasi algoritma rabin karp dan stemming sastrawi 
+implementation algoritm rabinkarp & stemming sastrawi
 
-
+#### Feature
+improve algoritm rabin karp
+improve execution time using stemming sastrawi
 
 #### Akses
 login /admin
@@ -13,3 +15,5 @@ login /admin
 #### Plugin
 
 Link [sastrawi](https://github.com/sastrawi/sastrawi)
+
+if any question, you can contact me
