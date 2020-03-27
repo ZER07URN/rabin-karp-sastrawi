@@ -14,6 +14,5 @@ login /admin
 
 #### Plugin
 
-Link [sastrawi](https://github.com/sastrawi/sastrawi)
-
+you can find out my journal about rabin karp [IEEE](https://ieeexplore.ieee.org/document/8938458) 
 if any question, you can contact me
