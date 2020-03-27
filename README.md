@@ -5,7 +5,7 @@ implementation algoritm rabinkarp & stemming sastrawi
 improve algoritm rabin karp <br/>
 improve execution time using stemming sastrawi
 
-#### Akses
+#### access
 login /admin
 
 | Username | Password |
@@ -14,5 +14,8 @@ login /admin
 
 #### Plugin
 
-you can find out my journal about rabin karp [IEEE](https://ieeexplore.ieee.org/document/8938458) 
+Link [sastrawi](https://github.com/sastrawi/sastrawi) <br/>
+
+#### Other
+you can find out my journal about rabin karp [IEEE](https://ieeexplore.ieee.org/document/8938458) <br/>
 if any question, you can contact me
