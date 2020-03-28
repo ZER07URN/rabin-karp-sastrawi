@@ -12,7 +12,7 @@ login /admin
 | ------ | ------ |
 | andyptra | andy12345 |
 
-#### Plugin
+#### Library
 
 Link [sastrawi](https://github.com/sastrawi/sastrawi) <br/>
 
